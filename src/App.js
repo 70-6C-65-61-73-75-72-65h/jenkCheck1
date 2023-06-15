@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn Reac,
-          Я энгри берд и я ебал ваш рот
+          Я энгри берд и я ебал ваш рот, payyy
         </a>
       </header>
     </div>
